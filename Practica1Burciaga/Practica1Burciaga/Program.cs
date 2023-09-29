@@ -38,6 +38,8 @@ namespace Practica1Burciaga
                         Console.WriteLine("Opcion no valida");
                         break;
                 }
+                Console.ReadKey();
+
             }
         }
 
@@ -58,9 +60,10 @@ namespace Practica1Burciaga
 
         static bool ValidarCadena(string cadena)
         {
-
-            string expresionRegular = @"^(@#.[AEIOU]$)|(^\$.[aeiou]$)|(^(@#.[0-9][13579][AEIOU]$)|(^\$.[0-9][13579][aeiou]$))|(@#.[AEIOU]$)|(\$.[aeiou]$)";
+            string expresionRegular = @"^(?:@#[AEIOU]$|\$[aeiou]$|(?:@#|\$)[0-9]{3}[13579][AEIOU]$)";
+            return Regex.IsMatch(cadena, expresionRegular);
         }
+
 
         static void MostrarCreditos()
         {

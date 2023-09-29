@@ -1,0 +1,8 @@
+C:\xampp\htdocs\Expresiones_Regulares\Practica1Burciaga\Practica1Burciaga\obj\Debug\Practica1Burciaga.csproj.AssemblyReference.cache
+C:\xampp\htdocs\Expresiones_Regulares\Practica1Burciaga\Practica1Burciaga\obj\Debug\Practica1Burciaga.csproj.SuggestedBindingRedirects.cache
+C:\xampp\htdocs\Expresiones_Regulares\Practica1Burciaga\Practica1Burciaga\obj\Debug\Practica1Burciaga.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\Expresiones_Regulares\Practica1Burciaga\Practica1Burciaga\bin\Debug\Practica1Burciaga.exe.config
+C:\xampp\htdocs\Expresiones_Regulares\Practica1Burciaga\Practica1Burciaga\bin\Debug\Practica1Burciaga.exe
+C:\xampp\htdocs\Expresiones_Regulares\Practica1Burciaga\Practica1Burciaga\bin\Debug\Practica1Burciaga.pdb
+C:\xampp\htdocs\Expresiones_Regulares\Practica1Burciaga\Practica1Burciaga\obj\Debug\Practica1Burciaga.exe
+C:\xampp\htdocs\Expresiones_Regulares\Practica1Burciaga\Practica1Burciaga\obj\Debug\Practica1Burciaga.pdb

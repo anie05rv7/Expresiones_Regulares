@@ -10,6 +10,7 @@ namespace Practica1Burciaga
 {
     internal class Program
     {
+        int hola;
         static void Main(string[] args)
         {
             while (true)
